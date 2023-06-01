@@ -28,6 +28,10 @@ funcao calculo (real a, real b){
        caso 3: 
             escreva(a"*"b)
             resultado=a*b
+            pare
+       caso 4:
+            escreva(a"/"b)
+            resultado=a/b
             pare}
 }
 }
