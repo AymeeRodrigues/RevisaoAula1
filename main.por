@@ -24,6 +24,10 @@ funcao calculo (real a, real b){
        caso 2:
             escreva(a"-"b)
             resultado=a-b
+            pare
+       caso 3: 
+            escreva(a"*"b)
+            resultado=a*b
             pare}
 }
 }
